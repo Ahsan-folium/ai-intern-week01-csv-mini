@@ -17,3 +17,5 @@ command.txt
 
 # add python cache files in /src/main/
 src/main/__pycache__/
+
+src/ai-intern-week2/__pycache__/
